@@ -1,0 +1,6 @@
+spring:
+  application:
+  name: demo
+  C:\Users\Mohamed\Downloads\sample-springboot-app
+logging:
+  config: classpath:logback-spring.xml
